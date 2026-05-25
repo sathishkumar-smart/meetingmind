@@ -1,0 +1,9 @@
+fastapi==0.120.0
+uvicorn==0.31.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.30
+mutagen==1.47.0
+pydantic==2.8.2
+httpx==0.28.1
+python-multipart==0.0.7
+groq==0.9.0
